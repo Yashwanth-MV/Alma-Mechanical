@@ -1,0 +1,8 @@
+{
+  "name": "ALMA MECHANICAL",
+  "description": "Alma Mechanical - Heavy-duty machinery and precision engineering for a reliable industrial world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
