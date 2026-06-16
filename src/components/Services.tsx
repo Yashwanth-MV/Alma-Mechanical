@@ -10,28 +10,28 @@ export default function Services() {
       title: language === 'ar' ? 'الهندسة والتصميم' : 'Engineering & Design',
       description: language === 'ar' ? 'نحن نقيم الاحتياجات ونطوّر منتجات تحقق الكفاءة والسلامة والأداء الأمثل.' : 'We assess needs and create products for efficiency, safety and optimal performance.',
       icon: Cpu,
-      image: '/src/assets/images/precision_engineering_1781186515257.jpg',
+      image: '/assets/images/precision_engineering_1781186515257.jpg',
       focus: language === 'ar' ? ['هندسة مخصصة', 'تحليل الأحمال', 'وثائق تقنية'] : ['Custom Engineering', 'Load Analysis', 'Technical Documentation']
     },
     {
       title: language === 'ar' ? 'التصنيع والتجميع' : 'Manufacture & Assembly',
       description: language === 'ar' ? 'يتم تصنيع المنتجات بعمليات معتمدة وفحوصات جودة صارمة طوال فترة الإنتاج.' : 'Products are crafted with certified processes and rigorous quality checks throughout production.',
       icon: Factory,
-      image: '/src/assets/images/robotic_assembly_1781186532104.jpg',
+      image: '/assets/images/robotic_assembly_1781186532104.jpg',
       focus: language === 'ar' ? ['إنتاج داخلي', 'فحص الجودة', 'امتثال المعايير'] : ['In-House Production', 'Quality Inspection', 'Standards Compliance']
     },
     {
       title: language === 'ar' ? 'التركيب والتفعيل' : 'Installation & Activation',
       description: language === 'ar' ? 'يضمن الخبراء الاختبار الدقيق والتركيب والمعايرة في خدمات دعم الموقع.' : 'Experts guarantee precise testing, installation and calibration on site support services.',
       icon: Settings,
-      image: '/src/assets/images/industrial_service_detail_1781187959814.jpg',
+      image: '/assets/images/industrial_service_detail_1781187959814.jpg',
       focus: language === 'ar' ? ['إعداد الموقع', 'اختبار الأنظمة', 'الجاهزية التشغيلية'] : ['On-Site Setup', 'System Testing', 'Operational Readiness']
     },
     {
       title: language === 'ar' ? 'الصيانة والدعم' : 'Maintenance & Support',
       description: language === 'ar' ? 'مصممة لرفع الأحمال الثقيلة والمناولة الدقيقة مع أقصى قدر من الكفاءة والسلامة.' : 'Designed for heavy-duty lifting and precise load handling with maximum efficiency and safety.',
       icon: Wrench,
-      image: '/src/assets/images/quality_control_1781186546438.jpg',
+      image: '/assets/images/quality_control_1781186546438.jpg',
       focus: language === 'ar' ? ['صيانة وقائية', 'قطع غيار', 'دعم فني'] : ['Preventive Maintenance', 'Spare Parts', 'Technical Support']
     }
   ];

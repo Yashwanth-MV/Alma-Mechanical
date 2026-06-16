@@ -12,21 +12,21 @@ export const services: Service[] = [
     title: 'Advanced Precision Engineering',
     description: 'Ultra-tight tolerance mechanical and component design for mission-critical aerospace and medical applications.',
     icon: 'Cpu',
-    image: '/src/assets/images/precision_engineering_1781186515257.jpg',
+    image: '/assets/images/precision_engineering_1781186515257.jpg',
   },
   {
     id: 's2',
     title: 'Automated Assembly Systems',
     description: 'Custom robotic workcells and high-throughput production lines designed for maximum efficiency and scalability.',
     icon: 'Workflow',
-    image: '/src/assets/images/robotic_assembly_1781186532104.jpg',
+    image: '/assets/images/robotic_assembly_1781186532104.jpg',
   },
   {
     id: 's3',
     title: 'Quality Matrix Control',
     description: 'NIST-traceable inspection and comprehensive lifecycle tracking to ensure zero-defect manufacturing outcomes.',
     icon: 'ShieldCheck',
-    image: '/src/assets/images/quality_control_1781186546438.jpg',
+    image: '/assets/images/quality_control_1781186546438.jpg',
   },
 ];
 
@@ -36,21 +36,21 @@ export const services_ar: Service[] = [
     title: 'هندسة دقيقة متقدمة',
     description: 'تصميم ميكانيكي ومكونات بتسامح شديد الدقة للتطبيقات الحيوية في مجالات الطيران والطب.',
     icon: 'Cpu',
-    image: '/src/assets/images/precision_engineering_1781186515257.jpg',
+    image: '/assets/images/precision_engineering_1781186515257.jpg',
   },
   {
     id: 's2',
     title: 'أنظمة تجميع آلية',
     description: 'خلايا عمل روبوتية مخصصة وخطوط إنتاج عالية الإنتاجية مصممة لتحقيق أقصى قدر من الكفاءة والقابلية للتوسع.',
     icon: 'Workflow',
-    image: '/src/assets/images/robotic_assembly_1781186532104.jpg',
+    image: '/assets/images/robotic_assembly_1781186532104.jpg',
   },
   {
     id: 's3',
     title: 'مصفوفة مراقبة الجودة',
     description: 'فحص قابل للتتبع من NIST وتتبع شامل لدورة الحياة لضمان نتائج تصنيع خالية من العيوب.',
     icon: 'ShieldCheck',
-    image: '/src/assets/images/quality_control_1781186546438.jpg',
+    image: '/assets/images/quality_control_1781186546438.jpg',
   },
 ];
 
@@ -204,21 +204,21 @@ export const blogPosts: BlogPost[] = [
     title: 'Future of e-comm fulfillment: speed meets scalability',
     date: 'Apr 11, 2026',
     category: 'Logistics',
-    thumbnail: '/src/assets/images/insight_ecomm_fulfillment_1781188110531.jpg',
+    thumbnail: '/assets/images/insight_ecomm_fulfillment_1781188110531.jpg',
   },
   {
     id: 'b2',
     title: 'Reducing downtime in heavy industrial operations',
     date: 'Apr 10, 2026',
     category: 'Operations',
-    thumbnail: '/src/assets/images/insight_industrial_downtime_1781188125937.jpg',
+    thumbnail: '/assets/images/insight_industrial_downtime_1781188125937.jpg',
   },
   {
     id: 'b3',
     title: 'How automation transforms modern warehousing',
     date: 'Apr 9, 2026',
     category: 'Automation',
-    thumbnail: '/src/assets/images/insight_warehouse_automation_1781188140312.jpg',
+    thumbnail: '/assets/images/insight_warehouse_automation_1781188140312.jpg',
   },
 ];
 
@@ -228,20 +228,20 @@ export const blogPosts_ar: BlogPost[] = [
     title: 'مستقبل تلبية التجارة الإلكترونية: السرعة تلتقي مع القابلية للتوسع',
     date: '11 أبريل 2026',
     category: 'الخدمات اللوجستية',
-    thumbnail: '/src/assets/images/insight_ecomm_fulfillment_1781188110531.jpg',
+    thumbnail: '/assets/images/insight_ecomm_fulfillment_1781188110531.jpg',
   },
   {
     id: 'b2',
     title: 'تقليل وقت التوقف عن العمل في العمليات الصناعية الثقيلة',
     date: '10 أبريل 2026',
     category: 'العمليات',
-    thumbnail: '/src/assets/images/insight_industrial_downtime_1781188125937.jpg',
+    thumbnail: '/assets/images/insight_industrial_downtime_1781188125937.jpg',
   },
   {
     id: 'b3',
     title: 'كيف يحول التشغيل الآلي المستودعات الحديثة',
     date: '9 أبريل 2026',
     category: 'الأتمتة',
-    thumbnail: '/src/assets/images/insight_warehouse_automation_1781188140312.jpg',
+    thumbnail: '/assets/images/insight_warehouse_automation_1781188140312.jpg',
   },
 ];

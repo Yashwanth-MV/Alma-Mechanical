@@ -144,7 +144,7 @@ export default function AboutPage() {
               >
                 <div className="w-full h-full rounded-[40px] overflow-hidden shadow-2xl">
                   <img 
-                    src="/src/assets/images/industrial_crane_1781187299242.jpg" 
+                    src="/assets/images/industrial_crane_1781187299242.jpg" 
                     alt="Industrial Machinery" 
                     className="w-full h-full object-cover transition-transform duration-1000 hover:scale-110"
                   />

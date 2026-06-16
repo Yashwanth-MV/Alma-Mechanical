@@ -12,7 +12,7 @@ export default function Products() {
         capacity: language === 'ar' ? 'حتى 80 طن' : 'Up to 80t', 
         operation: language === 'ar' ? 'هيدروليكي / كهربائي' : 'Hydraulic / Electric' 
       },
-      image: '/src/assets/images/equipment_forklift_studio_1781187708566.jpg',
+      image: '/assets/images/equipment_forklift_studio_1781187708566.jpg',
       description: language === 'ar' ? 'مصممة للفعالية والأمان في رفع ونقل المواد الثقيلة.' : 'Designed for safe and efficient lifting and transport of heavy materials.',
     },
     {
@@ -21,7 +21,7 @@ export default function Products() {
         capacity: language === 'ar' ? 'حتى 80 طن' : 'Up to 80t', 
         operation: language === 'ar' ? 'هيدروليكي / كهربائي' : 'Hydraulic / Electric' 
       },
-      image: '/src/assets/images/equipment_loader_studio_1781187724570.jpg',
+      image: '/assets/images/equipment_loader_studio_1781187724570.jpg',
       description: language === 'ar' ? 'بنيت للتحميل السريع والموثوق لعمليات المواد السائبة.' : 'Built for fast and reliable loading of bulk materials operations.',
     },
     {
@@ -30,7 +30,7 @@ export default function Products() {
         capacity: language === 'ar' ? 'حمولة عالية' : 'High-Load Rated', 
         operation: language === 'ar' ? 'آلي / مستمر' : 'Automated / Continuous' 
       },
-      image: '/src/assets/images/equipment_conveyor_studio_1781187739774.jpg',
+      image: '/assets/images/equipment_conveyor_studio_1781187739774.jpg',
       description: language === 'ar' ? 'هندسة لعمليات نقل المواد بسلاسة واستمرارية.' : 'Engineered for smooth and continuous material transport processes.',
     },
     {
@@ -39,7 +39,7 @@ export default function Products() {
         capacity: language === 'ar' ? 'حتى 150 طن' : 'Up to 150t', 
         operation: language === 'ar' ? 'كهربائي / هجين' : 'Electric / Hybrid' 
       },
-      image: '/src/assets/images/equipment_crane_studio_1781187753848.jpg',
+      image: '/assets/images/equipment_crane_studio_1781187753848.jpg',
       description: language === 'ar' ? 'طورت لرفع الحمولات الثقيلة والمناولة الدقيقة للأوزان.' : 'Developed for heavy-duty lifting and precise load handling operations.',
     }
   ];

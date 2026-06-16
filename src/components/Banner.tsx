@@ -10,7 +10,7 @@ export default function Banner() {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0">
         <img 
-          src="/src/assets/images/Engineered for extreme conditions reliability.png" 
+          src="/assets/images/Engineered for extreme conditions reliability.png" 
           alt="Engineered for reliability" 
           className="w-full h-full object-cover"
         />
