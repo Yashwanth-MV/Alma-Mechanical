@@ -37,7 +37,7 @@ export default function About() {
               className="rounded-[40px] overflow-hidden shadow-2xl relative group"
             >
               <img 
-                src="/assets/images/About us .jpeg" 
+                src="/assets/images/about_us.jpg" 
                 alt="Engineering Strength" 
                 className="w-full h-full object-cover aspect-[4/3.5] transition-transform duration-1000 group-hover:scale-105"
               />
